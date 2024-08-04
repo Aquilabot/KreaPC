@@ -1,0 +1,6 @@
+[submodule "KreaPC-API"]
+	path = KreaPC-API
+	url = https://github.com/Aquilabot/KreaPC-API
+[submodule "KreaPC-UI"]
+	path = KreaPC-UI
+	url = https://github.com/Aquilabot/KreaPC-UI
